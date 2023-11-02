@@ -1,0 +1,1 @@
+# Oracle12cSQLAnalysis-Telecom
